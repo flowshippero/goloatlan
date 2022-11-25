@@ -76,7 +76,7 @@ $apiToken = "5949300208:AAEDrXMf0ywpXprlNvf94CxbY-I0PR-PMV8";
 
 
 $data = [
-  'chat_id' => '@Flowmexicobot',
+  'chat_id' => '@flowmexicobot',
 
    'text' => $message
 ];
